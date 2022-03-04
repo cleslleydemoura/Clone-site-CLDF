@@ -1,0 +1,31 @@
+div#Menu img{
+    float: right;
+    margin-right: 4px;
+    margin-top: -24px;
+}
+div#Menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+div#Menu li{
+    display: inline;
+    margin-right: 10px;
+
+}
+div#Menu ul li a{
+    color: white;
+    text-decoration: none;
+    background-color:#a5441b;
+    padding:4.5px 5px 3px 5px;
+    font-size: 9pt;
+    font-family: arial;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    border-radius: 4px 4px 0px 0px;
+}
+div#Menu ul li a:hover{
+    color:#a5441b;
+    background-color: white;
+    text-shadow:  0 0 3px gray;
+}

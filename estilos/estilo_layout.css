@@ -1,0 +1,38 @@
+body{
+    background-image: url('../imagens/fundo.png');
+    background-repeat: repeat-x;
+    margin: 0;
+}
+div#Principal{
+    width: 940px;
+    margin: 0px auto;
+    height: 1200px;
+    background-color: white;
+    box-shadow: 0.5px 0.5px 0.5cm black;
+}
+div#Banner{
+    height: 127px;
+    background-image: url('../imagens/banner.jpg')
+}
+div#Menu{
+    height: 20px;
+    background-color: #6b2e14;
+        padding-left: 10px;
+}
+div#Conteudo{
+    height: 800px;
+}
+div#Links{
+    height: 294px;
+    background-color: #6b2e14;
+}
+div#Rodape{
+    height: 50px;
+    background-color: #646566;
+    color:white;
+    text-align: center;
+    font-size: 8pt;
+    padding-top: 5px;
+    font-family: Arial;
+    line-height: 15px;
+}

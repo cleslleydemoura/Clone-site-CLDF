@@ -1,0 +1,27 @@
+p {
+    font-family: Arial;
+    font-size: 9pt;
+}
+legend{
+    color: orange;
+    font-weight: bold;
+}
+fieldset{
+    border-radius: 5px;
+}
+div#Menu ul{
+    list-style: none;
+}
+div#Menu ul li{
+    
+}
+div#Menu ul li a{
+    background-color: #E6E6E6;
+    display: block;
+    border: 1px solid white;
+    padding: 5px 10px;
+    color: white;
+    font-size: 9pt;
+    font-family: Arial;
+    font-weight: bold;
+}

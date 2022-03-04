@@ -1,0 +1,53 @@
+div#Banner img{
+    margin-top: 23px;
+    margin-left: 17px;
+}
+div#buscar{
+    padding-top: 4px;
+    padding-left: 8px;
+    width: 358px;
+    height: 30px;
+    float:right;
+    background-color: #9dadbf;
+    box-shadow: 0.5px 0.2px 0.3cm black;
+}
+div#buscar form {
+    width: 260px;
+    float: left;
+    margin-right: 20px;
+}
+div#buscar input[type=button]{
+    background-color: white;
+    border: 1px solid silver;
+    padding: 0;
+    border-radius: 3px;
+    width: 10 px;
+    font-weight: bold;
+    height: 22px;
+}
+div#buscar input:hover[type=button]{
+    cursor: pointer;
+    background: -webkit-linear-gradient(top, #f2faff, #bcd1dc);
+    border: 1px inset #627782;
+}
+div#buscar input[type=text]{
+    width: 135px;
+    height: 20px;
+}
+div#buscar input:focus[type=text]{
+    background-color: #ffffcc;
+    font-weight: bold;
+}
+div#buscar input[type=submit]{
+    background-color: #4f6983;
+    color: white;
+    bortder: 1px outset silver;
+}
+div#buscar input:hover[type=submit]{
+    cursor: pointer;
+}
+div#buscar img{
+    margin-left: -5px;
+    margin-right: 5px;
+    margin-top: 8px;
+}

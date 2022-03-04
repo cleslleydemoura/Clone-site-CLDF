@@ -1,5 +1,5 @@
 # Clone-site-CLDF
-<p>Clone feito do site CLDF feito com PHP, HTML e CSS</p>
+<p>Clone do site CLDF feito com PHP, HTML e CSS</p>
 <h1>Como abrir?</h1>
 <ol>
   <li> Download do Xampp</li>

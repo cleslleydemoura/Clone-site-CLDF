@@ -1,5 +1,5 @@
 # Clone-site-CLDF
-<p>Clone do site CLDF feito com PHP, HTML e CSS</p>
+<p>Clone do site CLDF feito com PHP, HTML e CSS!</p>
 <h1>Como abrir?</h1>
 <img src="https://user-images.githubusercontent.com/100368699/158036374-620b5ef2-7354-4eb5-94e7-7812ba7b9b66.png" alt="Página CLDF">
 <ol>
